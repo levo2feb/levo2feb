@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/puneet-kumar--/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:75kpuneet@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneet-kumar--/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:75kpuneet@gmail.com) 
 
 
 <!--<div align="center">
