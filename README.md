@@ -24,6 +24,28 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneet-kumar--/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:75kpuneet@gmail.com) 
 
+## 🚀 About Me
+
+```python
+class Intro:
+    def __init__(self):
+        self.name = "Puneet Kumar"
+        self.education = {
+            "Bachelors": "Computer Science & Engineering @ Manipal University Jaipur"
+        }
+        self.experience = ["SDE at Research Design and Standards Organization ", "Cloud Infra and Security intern at Celebal Technologies"]
+        self.interests = ["Machine Learning", "Deep Learning", "Security", "Computer Vision", "Reinforcement Learning"]
+        self.currently_learning = "Advanced AI Techniques for Real-world Applications"
+        self.looking_for = "Internship Opportunities (May 2025 - Dec 2025)"
+        self.pronouns = "he/him"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's collaborate on something innovative!")
+
+me = Puneet Kumar()
+me.say_hi()
+```
+
 
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=levo2feb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
