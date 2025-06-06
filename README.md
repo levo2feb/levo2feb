@@ -33,7 +33,10 @@ class Intro:
         self.education = {
             "Bachelors": "Computer Science & Engineering @ Manipal University Jaipur"
         }
-        self.experience = ["SDE at Research Design and Standards Organization ", "Cloud Infra and Security intern at Celebal Technologies"]
+        self.experience = [
+                             "SDE intern at Research Design and Standards Organization ",
+                             "Cloud Infra and Security intern at Celebal Technologies"
+        ]
         self.interests = ["Machine Learning", "Deep Learning", "Security", "Computer Vision", "Reinforcement Learning"]
         self.currently_learning = "Advanced AI Techniques for Real-world Applications"
         self.looking_for = "Internship Opportunities (May 2025 - Dec 2025)"
