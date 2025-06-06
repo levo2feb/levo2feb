@@ -34,8 +34,8 @@ class Intro:
             "Bachelors": "Computer Science & Engineering @ Manipal University Jaipur"
         }
         self.experience = [
-                             "SDE intern at Research Design and Standards Organization ",
                              "Cloud Infra and Security intern at Celebal Technologies"
+                             "SDE intern at Research Design and Standards Organization ",
         ]
         self.interests = ["Machine Learning", "Deep Learning", "Security", "Computer Vision", "Reinforcement Learning"]
         self.currently_learning = "Advanced AI Techniques for Real-world Applications"
