@@ -49,7 +49,19 @@ Built a Contract Management System using CodeIgniter 4 (PHP) and MySQL, streamli
   <img alt="github-snake" src="https://raw.githubusercontent.com/levo2feb/levo2feb/output/github-snake.svg" />
 </picture>
 
-
+###
+# 🏆 Projects
+### **🤖 AI & Machine Learning:**
+  - Image Colourisation using CNN
+  - Sign Language Recognition Software
+### **🌐 Web Development:**
+  - Contract Management System
+  - Pinterest Clone Website
+### **🔧 Embedded Systems & IoT**
+  - IoT-Enabled Smart Parking System
+  -  Automatic Anti-Theft Alarm System
+  -  Automated Water Irrigation System
+###
 
 
 
