@@ -53,7 +53,7 @@ me.say_hi()
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ###
-| **Category**                | **Skills**                                                                                                                                                                           <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />                                           |
+| **Category**                | **Skills**                                                                                                                                                                                                                    |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Learning**                 |  <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a>  ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) |
 | **Embedded & IoT**                   | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
@@ -66,6 +66,9 @@ me.say_hi()
 | **IDE & Environment**        | ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge\&logo=Google-chrome\&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)   |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /><!-->
 
 
