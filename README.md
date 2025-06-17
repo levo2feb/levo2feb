@@ -36,11 +36,10 @@ me.say_hi()
 
 
 ## 💼 Experience Highlights
-- **☁️ Summer Intern – Cloud Infra & Security @ Celebal Technologies**<br>
-Currently interning remotely, focusing on cloud infrastructure, security practices, and industry-relevant projects aimed at practical skill development in enterprise environments.
+- **💻 Summer Intern_Cloud Infra & Security @ Celebal Technologies -**  Currently interning remotely, focusing on cloud infrastructure, security practices, and industry-relevant projects aimed at practical skill development in enterprise environments.
 
-- **🛠 Intern at RDSO (Indian Railways)**<br>
-Built a Contract Management System using CodeIgniter 4 (PHP) and MySQL, streamlining the digital tracking and storage of contracts within government systems.
+- **🚉 Intern at RDSO, Indian Railways -** Built a Contract Management System using CodeIgniter 4 (PHP) and MySQL, streamlining the digital tracking and storage of contracts within government systems.
+
 ###
 
 <picture>
