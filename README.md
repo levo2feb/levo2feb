@@ -20,7 +20,7 @@ class Intro:
         }
         self.experience = [
                              "Cloud Infra and Security intern at Celebal Technologies"
-                             "SDE intern at Research Design and Standards Organization ",
+                             "SDE intern at Research Design and Standards Organization, Indian Railways ",
         ]
         self.interests = ["Machine Learning", "Deep Learning", "Security", "Computer Vision", "Reinforcement Learning"]
         self.currently_learning = "Advanced AI Techniques for Real-world Applications"
@@ -35,14 +35,22 @@ me.say_hi()
 ```
 
 
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levo2feb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levo2feb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<!-->
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levo2feb/levo2feb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/levo2feb/levo2feb/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/levo2feb/levo2feb/output/github-snake.svg" />
+</picture>
+
+
+
+
 
 # Tech Stack: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ###
 | **Category**                | **Skills**                                                                                                                                                                                                                      |
@@ -57,7 +65,7 @@ me.say_hi()
 | **Services & Tools**         | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | **IDE & Environment**        | ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge\&logo=Google-chrome\&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)   |
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /><!-->
 
 
@@ -74,29 +82,9 @@ me.say_hi()
 </div>
 <!-->
 
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levo2feb/levo2feb/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/levo2feb/levo2feb/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/levo2feb/levo2feb/output/github-snake.svg" />
-</picture>
-
-
-
-
-
-
-
-
-
-
 ###
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=levo2feb&label=Profile%20views&color=0e75b6&style=flat" alt="levo2feb" />
 </p>
 
-###
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
