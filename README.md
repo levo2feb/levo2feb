@@ -51,7 +51,7 @@ me.say_hi()
 ###
 # 🏆 Projects
 ### **🤖 AI & Machine Learning:**
-  - Image Colourisation using CNN
+  - U-Net-Based Deep Learning Approach for Image Colourization
   - Sign Language Recognition Software
 ### **🌐 Web Development:**
   - Contract Management System
