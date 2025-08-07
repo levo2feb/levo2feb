@@ -49,18 +49,6 @@ me.say_hi()
 </picture>
 
 ###
-# 🏆 Projects
-### **🤖 AI & Machine Learning:**
-  - U-Net-Based Deep Learning Approach for Image Colourization
-  - Sign Language Recognition Software
-### **🌐 Web Development:**
-  - Contract Management System
-  - Pinterest Clone Website
-### **🔧 Embedded Systems & IoT**
-  - IoT-Enabled Smart Parking System
-  -  Automatic Anti-Theft Alarm System
-  -  Automated Water Irrigation System
-###
 
 
 
