@@ -36,8 +36,7 @@ me.say_hi()
 
 
 ## 💼 Experience Highlights
-- **💻 Cloud Computing & Cybersecurity Intern, Celebal Technologies -**  Currently interning remotely, focusing on cloud infrastructure, security practices, and industry-relevant projects aimed at practical skill development in enterprise environments.
-
+- **💻 Cloud Computing & Cybersecurity Intern, Celebal Technologies -**  Gained hands-on experience in PAM, Azure PIM, contributing to enterprise-level projects and gaining hands-on experience in secure cloud environments.
 - **🚉 Full Stack Web Development  Intern, RDSO [Indian Railways] -** Built a Contract Management System using CodeIgniter 4 (PHP) and MySQL, streamlining the digital tracking and storage of contracts within government systems.
 
 ###
